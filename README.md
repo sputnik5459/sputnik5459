@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Open repos stuff
+
 ![Sputnik5459's GitHub stats](https://github-readme-stats.vercel.app/api?username=sputnik5459&show_icons=true&theme=darcula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sputnik5459&layout=compact)
