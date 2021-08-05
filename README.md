@@ -3,7 +3,7 @@ My name's Anton 🌱
 
 - Most of all, I'm a professional backend developer (python, golang). 
 - In my free time I study c++ and game development (native: OpenGL, SDL, etc).
-- Also, interested in neural networks and AI technologies.
+- Also, interested in neural networks, AI technologies and ethical hacking.
 
 <!--
 **sputnik5459/sputnik5459** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
