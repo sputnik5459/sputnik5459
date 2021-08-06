@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ![Sputnik5459's GitHub stats](https://github-readme-stats.vercel.app/api?username=sputnik5459&show_icons=true&theme=darcula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sputnik5459&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sputnik5459&layout=compact&cache_seconds=1800&hide=QMake,CMake,Makefile&exclude_repo=sputnik5459,sputnik5459.github.io&langs_count=6)
 
 
 ## I’m currently working on
