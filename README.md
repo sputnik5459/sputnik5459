@@ -2,7 +2,7 @@
 My name's Anton 🌱
 
 - Most of all, I'm a professional backend developer (python, golang). 
-- In my free time I study c++ and game development (native: OpenGL, SDL, etc).
+- In spare time I study c++ and game development (native: OpenGL, SDL, etc).
 - Also, interested in neural networks, AI technologies and ethical hacking.
 
 <!--
