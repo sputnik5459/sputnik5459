@@ -30,3 +30,5 @@ Here are some ideas to get you started:
 ## I’m currently working on
  
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sputnik5459&repo=oomori-engine-2d)](https://github.com/sputnik5459/oomori-engine-2d)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sputnik5459&repo=cpp-learning-projects)](https://github.com/sputnik5459/cpp-learning-projects)
