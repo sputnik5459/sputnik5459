@@ -5,7 +5,7 @@ My name's Anton 🌱
 - In spare time I study c++ and game development (native: OpenGL, SDL, etc).
 - Also, interested in neural networks, AI technologies and ethical hacking.
 
-Feel free to invite me to collaborate on some projects 🔭
+Feel free to invite me to collaborate on some projects - sputnik5459@gmail.com 🔭
 
 <!--
 **sputnik5459/sputnik5459** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
