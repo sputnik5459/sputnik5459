@@ -1,8 +1,8 @@
 ## Hi there 👋
 My name's Anton 🌱
 
-- Most of all, I'm a professional backend developer (python, golang). 
-- In spare time I study c++ and game development (native: OpenGL, SDL, etc).
+- Most of all, I'm a backend developer (python, golang). 
+- In spare time study c++ and game development (native: OpenGL, SDL, etc; unreal engine).
 - Also, interested in neural networks, AI technologies and ethical hacking.
 
 Feel free to invite me to collaborate on some projects - sputnik5459@gmail.com 🔭
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## Open repos stuff
 
-![Sputnik5459's GitHub stats](https://github-readme-stats.vercel.app/api?username=sputnik5459&show_icons=true&theme=darcula)
+![Sputnik5459's GitHub stats](https://github-readme-stats.vercel.app/api?username=sputnik5459&show_icons=true&theme=darcula&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sputnik5459&layout=compact&cache_seconds=1800&hide=QMake,CMake,Makefile&exclude_repo=sputnik5459,sputnik5459.github.io&langs_count=6)
 
