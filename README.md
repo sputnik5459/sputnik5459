@@ -7,3 +7,6 @@
   - C++, Qt
 - [C++ learning stuff](https://github.com/sputnik5459/cpp-learning-projects): A couple of C++ learning projects including sudoku.
   - C++, SDL
+
+## More
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sputnik5459&layout=compact&cache_seconds=1800&hide=QMake,CMake,Makefile,Java,HTML,css,Dockerfile&exclude_repo=sputnik5459,sputnik5459.github.io&langs_count=6)
