@@ -1,25 +1,7 @@
-- Backend developer (mostly python + some elixir).
-- Also interested in rust, neural networks, AI technologies, native game dev (OpenGL, SDL, etc).
-
-Feel free to invite me to collaborate on some projects - sputnik5459@gmail.com 🔭
-
-<!--
-**sputnik5459/sputnik5459** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## Open repos stuff
-
-![Sputnik5459's GitHub stats](https://github-readme-stats.vercel.app/api?username=sputnik5459&show_icons=true&theme=darcula&, )
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sputnik5459&layout=compact&cache_seconds=1800&hide=QMake,CMake,Makefile,Java,HTML,css&exclude_repo=sputnik5459,sputnik5459.github.io&langs_count=6)
+## PET-PROJECTS
+#### Current
+#### Paused or abandoned
+- [Flute fingering transcriber](https://github.com/sputnik5459/desktop-flute-transcribe): A transcriber from notes to fingering on flute
+  - C++, Qt
+- [C++ learning stuff](https://github.com/sputnik5459/cpp-learning-projects): A couple of C++ learning projects including sudoku
+  - C++, SDL
