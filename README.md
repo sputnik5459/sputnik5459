@@ -2,6 +2,8 @@
 #### Current
 - [Shell Sabbath](https://github.com/sputnik5459/shell-sabbath): A TUI for metalheads! It searches for hidden gems and bangers through the Encyclopaedia Metallum.
   - Go, Colly, Tview
+- [Neck-romancer](https://github.com/sputnik5459/neck-romancer.nvim) A small nvim plugin to stretch your neck while you're in your favorite code editor
+  - Lua
 #### Completed/Paused/Abandoned
 - [Flute fingering transcriber](https://github.com/sputnik5459/desktop-flute-transcribe): A transcriber from notes to fingering on flute.
   - C++, Qt
